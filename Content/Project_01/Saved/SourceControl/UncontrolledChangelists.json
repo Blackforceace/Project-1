@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/EPIC/UE_5.4/Projects/CLASS PROJECTS/Project-1/Content/Project_01/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/EPIC/UE_5.4/Projects/CLASS PROJECTS/Project-1/Content/Project_01/Content/ACER.umap",
+				"D:/EPIC/UE_5.4/Projects/CLASS PROJECTS/Project-1/Content/Project_01/Content/Enemies/BP_EnemyAILight.uasset",
+				"D:/EPIC/UE_5.4/Projects/CLASS PROJECTS/Project-1/Content/Project_01/Content/Enemies/BP_EnemyAILight2.uasset",
+				"D:/EPIC/UE_5.4/Projects/CLASS PROJECTS/Project-1/Content/Project_01/Content/StarterContent/Materials/PULSE2.uasset",
+				"D:/EPIC/UE_5.4/Projects/CLASS PROJECTS/Project-1/Content/Project_01/Content/StarterContent/Materials/PULSE3.uasset",
+				"D:/EPIC/UE_5.4/Projects/CLASS PROJECTS/Project-1/Content/Project_01/Content/MainLevel/BOSSLEVEL.umap",
 				"C:/Bedlam/Project-1/Content/Project_01/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Bedlam/Project-1/Content/Project_01/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset",
 				"C:/Bedlam/Project-1/Content/Project_01/Content/Enemies/BP_EnemyAI.uasset",
